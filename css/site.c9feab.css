@@ -1,7 +1,6 @@
 body {
   --f: 1;
   --sw: 0px;
-  min-width: 1200px;
 } /* R34Z1MXUJQW5D24GCJDS5 */
 .v1 {
   display: inline-block;
@@ -16,7 +15,6 @@ body {
   min-width: 748px;
   width: 748px;
   min-height: 1023px;
-  height: 1023px;
 }
 .z1 {
   pointer-events: auto;
